@@ -1,0 +1,27 @@
+#header-nav {
+    background-color: gray;
+}
+.navbar-brand a {
+  font-family: 'Lora', serif;
+  color: #fff;
+  font-size: 1.5em;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  text-decoration: none;
+}
+.menu-item{
+    background: #999;
+  padding: 20px;
+  margin-top: 20px;
+}
+#nav-list{
+    background: #E7E7E7;
+}
+
+#nav-list a{
+    color: #fff;
+    text-align: center;    
+}
+#nav-list a span {
+    font-size: 1.8em;
+}
